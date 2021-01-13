@@ -19,3 +19,7 @@ Well you could see the directory of Install Apk , navigate there and walla there
 ## Web Build
 
 Do check this link [Krenovator To Do App](https://portfolio-34dfd.web.app/#/) . If you want to check the source code no worries it just same as the Android code one. Since Flutter is one platform for all kind of framework. However the web build is still in beta. So im sorry if the performance not living up to your expectation 
+
+### Progressive Web Application Support
+
+Do open the website using chrome on your mobile to see the PWA support for this web application
